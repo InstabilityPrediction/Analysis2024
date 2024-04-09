@@ -1,6 +1,9 @@
-This is the software script used for various data analyses in the paper to be published in Anesthesiology: 
+This is the software script used for various data analyses in the following publication in _Anesthesiology_: 
 
-_Comparison of differences in cohort (forwards) and case control (backwards) methodological approaches for validation of the Hypotension Prediction Index_, by SJ Davies, DI Sessler, Z Jian, et al
+SJ Davies, DI Sessler, Z Jian, et al, Comparison of differences in cohort (forwards) and case control (backwards) methodological approaches for validation of the Hypotension Prediction Index, _Anesthesiology_, https://doi.org/10.1097/ALN.0000000000004989
+
+
+The script is released under the terms and conditions specified in the file [LICENSE.md](https://github.com/InstabilityPrediction/Analysis2024/blob/main/LICENSE.md).
 
 <!--
 
